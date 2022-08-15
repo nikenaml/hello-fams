@@ -38,8 +38,7 @@
 &nbsp;&nbsp;
 
 
-### Languages and Tools:
-
+## Languages and Tools:
 <p align="left" class="language"/>
   <img align="left" alt="Python" height="24px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="left" alt="Golang" height="24px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />   
