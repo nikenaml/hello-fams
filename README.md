@@ -14,7 +14,7 @@
 <p>
   <a href="https://github.com/nikenaml/nikenaml">
     <img
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikenaml&theme=prussian&layout=compact&border_radius=24"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikenaml&theme=onedark&layout=compact&border_radius=24"
          alt="nikenaml's most used languange"
          align="center"
          height="140"
@@ -22,7 +22,7 @@
   </a>
   <a href="https://github.com/nikenaml/nikenaml">
     <img
-         src="https://github-readme-stats.vercel.app/api?username=nikenaml&show_icons=true&theme=prussian&border_radius=24"
+         src="https://github-readme-stats.vercel.app/api?username=nikenaml&show_icons=true&theme=onedark&border_radius=24"
          alt="Github Stats"
          align="center"
          height="140"
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikenaml&theme=tokyonight&date_format=j%20M%5B%20Y%5D)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikenaml&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
 
 
 ## Let's Connect
