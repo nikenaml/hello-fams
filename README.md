@@ -34,10 +34,8 @@
 
 
 ## Let's Connect
-<div>
-  [![website](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/nikenamelia/)
-  &nbsp;&nbsp;
-</div>
+[![website](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/nikenamelia/)
+&nbsp;&nbsp;
 
 
 ### Languages and Tools:
