@@ -14,15 +14,15 @@
 <p>
   <a href="https://github.com/nikenamelia/nikenamelia">
     <img
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivalrivall&theme=prussian&layout=compact&border_radius=24"
-         alt="ivalrivall's most used languange"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikenamelia&theme=prussian&layout=compact&border_radius=24"
+         alt="nikenamelia's most used languange"
          align="center"
          height="140"
      />
   </a>
   <a href="https://github.com/nikenamelia/nikeamelia">
     <img
-         src="https://github-readme-stats.vercel.app/api?username=ivalrivall&show_icons=true&theme=prussian&border_radius=24"
+         src="https://github-readme-stats.vercel.app/api?username=nikenamelia&show_icons=true&theme=prussian&border_radius=24"
          alt="Github Stats"
          align="center"
          height="140"
