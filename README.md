@@ -30,7 +30,7 @@
   </a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikenaml&theme=prussian&date_format=j%20M%5B%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=nikenaml&theme=cobalt&date_format=j%20M%5B%20Y%5D)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikenaml&theme=tokyonight&date_format=j%20M%5B%20Y%5D)]
 
 
 ## Let's Connect
