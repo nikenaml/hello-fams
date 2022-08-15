@@ -11,6 +11,25 @@
 - 👨‍💻 All of my projects are available at https://github.com/nikenaml
 - 🔗 How to reach me and Know about my experiences **https://withkoji.com/@Niken**
 
+<p>
+  <a href="https://github.com/nikenaml/nikenaml">
+    <img
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikenaml&theme=prussian&layout=compact&border_radius=24"
+         alt="nikenaml's most used languange"
+         align="center"
+         height="140"
+     />
+  </a>
+  <a href="https://github.com/nikenaml/nikenaml">
+    <img
+         src="https://github-readme-stats.vercel.app/api?username=nikenaml&show_icons=true&theme=prussian&border_radius=24"
+         alt="Github Stats"
+         align="center"
+         height="140"
+     />
+  </a>
+</p>
+
 ### Connect with me:
 
 [![website](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/nikenamelia/)
