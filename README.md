@@ -33,11 +33,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikenaml&theme=dracula&date_format=j%20M%5B%20Y%5D)
 
 
-## Let's Connect
-[![website](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/nikenamelia/)
-&nbsp;&nbsp;
-
-
 ## Languages and Tools:
 <p align="left" class="language"/>
   <img align="left" alt="Python" height="24px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -60,3 +55,7 @@
   <img align="left" alt="GitHub" height="24px" style="margin-left: 10px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
  </p>
 
+
+## Let's Connect
+[![website](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/nikenamelia/)
+&nbsp;&nbsp;
