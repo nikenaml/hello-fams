@@ -1,5 +1,5 @@
-<h1 align="center">Hi there👋, I'm Niken Amelia</h1>
-<h3 align="center">I am <b>Analytics Data Engineer Specialist</b> from Indonesia 🇮🇩</h3>
+<h1>Hi there👋, I'm Niken Amelia</h1>
+<h3>I am <b>Analytics Data Engineer Specialist</b> from Indonesia 🇮🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikenaml&label=Profile%20views&color=0e75b6&style=flat" alt="nikenaml" /> </p>
 
@@ -40,7 +40,7 @@
 
 ### Languages and Tools:
 
-<p align="left" class="language">
+<p align="left" class="language"/>
   <img align="left" alt="Python" height="24px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="left" alt="Golang" height="24px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />   
   <img align="left" alt="PHP" height="24px" style="margin-left: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
