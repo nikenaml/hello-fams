@@ -11,11 +11,27 @@
 - 👨‍💻 All of my projects are available at https://github.com/nikenaml
 - 🔗 How to reach me and Know about my experiences **https://withkoji.com/@Niken**
 
+<p>
+  <a href="https://github.com/nikenamelia/nikenamelia">
+    <img
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivalrivall&theme=prussian&layout=compact&border_radius=24"
+         alt="ivalrivall's most used languange"
+         align="center"
+         height="140"
+     />
+  </a>
+  <a href="https://github.com/nikenamelia/nikeamelia">
+    <img
+         src="https://github-readme-stats.vercel.app/api?username=ivalrivall&show_icons=true&theme=prussian&border_radius=24"
+         alt="Github Stats"
+         align="center"
+         height="140"
+     />
+  </a>
+</p>
 
 ### Connect with me:
 
-[![website](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/niken.aml)
-&nbsp;&nbsp;
 [![website](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/nikenamelia/)
 &nbsp;&nbsp;
 [![website](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png)](https://stackoverflow.com/users/14388578/niken-amelia)
