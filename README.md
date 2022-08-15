@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikenaml&label=Profile%20views&color=0e75b6&style=flat" alt="nikenaml" /> </p>
 
 - 📌 I'm currently working as Analytics Data Engineer
-- 📝	 Highly interested in the field of machine learning, and data-driven analysis when solving problems that leads to optimum performance. 
-Specialized in Python, RDBMS (SQL (MySQL, PostgreSQL, Oracle, SQL Server)), Bigdata Area (Apache Spark), Text Mining, and NLP. 
+- 📝 Highly interested in the field of machine learning, and data-driven analysis when solving problems that leads to optimum performance. 
+- 📑 Specialized in Python, RDBMS (SQL (MySQL, PostgreSQL, Oracle, SQL Server)), Bigdata Area (Apache Spark), Text Mining, and NLP. 
 - 🎯 Familiar tools such as VSCode, Jupyter Notebook, DBeaver, HUE. 
 - 🤝 Looking to collaborate with other developer
 - 👨‍💻 All of my projects are available at https://github.com/nikenaml
@@ -45,6 +45,7 @@ Specialized in Python, RDBMS (SQL (MySQL, PostgreSQL, Oracle, SQL Server)), Bigd
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 
+<br />
 <br />
 <br />
 
