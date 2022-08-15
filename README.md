@@ -19,13 +19,12 @@ Specialized in Python, RDBMS (SQL (MySQL, PostgreSQL, Oracle, SQL Server)), Bigd
 &nbsp;&nbsp;
 [![website](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/nikenamelia/)
 &nbsp;&nbsp;
-[![website](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png)](https://stackoverflow.com/users/17653156/ccp)
-
+[![website](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png)](https://stackoverflow.com/users/14388578/niken-amelia)
 
 
 ### Languages and Tools:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />          
+<img align="left" alt="Golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />          
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
