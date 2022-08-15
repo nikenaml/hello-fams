@@ -11,25 +11,6 @@
 - 👨‍💻 All of my projects are available at https://github.com/nikenaml
 - 🔗 How to reach me and Know about my experiences **https://withkoji.com/@Niken**
 
-<p>
-  <a href="https://github.com/nikenamelia/nikenamelia">
-    <img
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikenamelia&theme=prussian&layout=compact&border_radius=24"
-         alt="nikenamelia's most used languange"
-         align="center"
-         height="140"
-     />
-  </a>
-  <a href="https://github.com/nikenamelia/nikeamelia">
-    <img
-         src="https://github-readme-stats.vercel.app/api?username=nikenamelia&show_icons=true&theme=prussian&border_radius=24"
-         alt="Github Stats"
-         align="center"
-         height="140"
-     />
-  </a>
-</p>
-
 ### Connect with me:
 
 [![website](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/nikenamelia/)
@@ -68,7 +49,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikenaml&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikenaml&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikenamelia)](https://github.com/anuraghazra/github-readme-stats)
-
-
