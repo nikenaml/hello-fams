@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Niken Amelia</h1>
+<h1 align="center">Hi there👋, I'm Niken Amelia</h1>
 <h3 align="center">I am <b>Analytics Data Engineer Specialist</b> from Indonesia 🇮🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikenaml&label=Profile%20views&color=0e75b6&style=flat" alt="nikenaml" /> </p>
@@ -30,15 +30,18 @@
   </a>
 </p>
 
-### Connect with me:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikenaml&theme=prussian&date_format=j%20M%5B%20Y%5D)](https://github-readme-streak-stats.herokuapp.com/?user=nikenaml&theme=prussian&date_format=j%20M%5B%20Y%5D)
 
-[![website](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/nikenamelia/)
-&nbsp;&nbsp;
-[![website](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png)](https://stackoverflow.com/users/14388578/niken-amelia)
+
+## Let's Connect
+<div>
+  <a href="https://www.linkedin.com/in/nikenaml/" target="_blank" title="linkedin" style="text-decoration: none">
+      <img align="center" src="/icons/linkedin.svg" alt="linkedin" style="height:24px"/>
+  </a> &nbsp;
+</div>
 
 
 ### Languages and Tools:
-
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" style="padding-right:10px;" />   
@@ -64,7 +67,3 @@
 <br />
 <br />
 <br />
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikenaml&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikenaml&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
