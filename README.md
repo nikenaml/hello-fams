@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=nikenamelia&style=for-the-badge)
-
 <h1 align="center">Hi there 👋, I'm Niken Amelia</h1>
 <h3 align="center">I am <b>Analytics Data Engineer Specialist</b> from Indonesia 🇮🇩</h3>
 
@@ -70,5 +68,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikenaml&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikenaml&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikenamelia)](https://github.com/anuraghazra/github-readme-stats)
 
 
