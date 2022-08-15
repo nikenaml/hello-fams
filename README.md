@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=nikenamelia&style=for-the-badge)
+
 <h1 align="center">Hi there 👋, I'm Niken Amelia</h1>
 <h3 align="center">I am <b>Analytics Data Engineer Specialist</b> from Indonesia 🇮🇩</h3>
 
@@ -30,24 +32,6 @@
   </a>
 </p>
 
-<p>
-  <a href="https://github.com/nikenamelia/nikenamelia">
-    <img
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikenamelia&theme=prussian&layout=compact&border_radius=24"
-         alt="nikenamelia's most used languange"
-         align="center"
-         height="140"
-     />
-  </a>
-  <a href="https://github.com/nikenamelia/nikenamelia">
-    <img
-         src="https://github-readme-stats.vercel.app/api?username=nikenamelia&show_icons=true&theme=prussian&border_radius=24"
-         alt="Github Stats"
-         align="center"
-         height="140"
-     />
-  </a>
-</p>
 ### Connect with me:
 
 [![website](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/nikenamelia/)
