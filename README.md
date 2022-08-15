@@ -1,4 +1,3 @@
-# hello-fams
 ## Hello 👋
 I am **Self taught Analytics Data Engineer**
 
