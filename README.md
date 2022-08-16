@@ -12,7 +12,6 @@
 - 🔗 How to reach me and Know about my experiences **https://withkoji.com/@Niken**
 
 <br />
-<br />
 
 <p>
   <a href="https://github.com/nikenaml/nikenaml">
@@ -34,11 +33,9 @@
 </p>
 
 <br />
-<br />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikenaml&theme=dracula&date_format=j%20M%5B%20Y%5D)
 
-<br />
 <br />
 
 ## Languages and Tools:
@@ -63,7 +60,6 @@
   <img align="left" alt="GitHub" height="24px" style="margin-left: 10px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
  </p>
 
-<br />
 <br />
 
 ## Let's Connect
